@@ -7,9 +7,9 @@ These folks were a huge inspiration for me in giving this presentation. Through 
 
 **Andreas Mueller**, [Machine Learning with Scikit-learn](https://www.youtube.com/watch?v=nJfxGY2dilY), PyData NYC 2015
 
-**Stephen Hoover**, [Scaling Scikit-learn](https://www.youtube.com/watch?v=KqKEttfQ_hE), PyData Seattle 2017
-
 **Julie Michelman**, [Pandas, Pipelines, and Custom Transformers](https://www.youtube.com/watch?v=BFaadIqWlAg), PyData Seattle 2017
+
+**Stephen Hoover**, [Scaling Scikit-learn](https://www.youtube.com/watch?v=KqKEttfQ_hE), PyData Seattle 2017
 
 **Zac Stewart**, [Using scikit-learn Pipelines and FeatureUnions](http://zacstewart.com/2014/08/05/pipelines-of-featureunions-of-pipelines.html)
 
